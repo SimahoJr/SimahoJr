@@ -9,5 +9,5 @@ I am an Electronics Engineer from Tanzania!
 - 🤔 I’m looking for help with Modbus Component for ESP-IDF
 - 💬 Ask me about: Software develoopment; 
 - 📫 How to reach me: simeonpande@outlook.com
-- 😄 Pronouns: IronMan
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
