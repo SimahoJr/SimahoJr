@@ -28,7 +28,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Image](src=images/IMG_0696.jpeg)
-[/IMG_0696.jpeg]
+[[images/IMG_0696.jpeg]]
+[[/images/IMG_0696.jpeg]]
+
 ```
 
 TODO: Stuff
