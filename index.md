@@ -1,4 +1,4 @@
-## Welcome to my GitHub page
+## Simeon Robert Pande
 
 Contacts
 1. [GitHub](https://github.com/SimahoJr/).
@@ -10,7 +10,7 @@ Contacts
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TODO: Stuff
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +30,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+TODO: Stuff
 
 ### Jekyll Themes
 
