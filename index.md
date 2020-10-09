@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Image](src=IMG_0696.jpeg)
 ```
 
 TODO: Stuff
