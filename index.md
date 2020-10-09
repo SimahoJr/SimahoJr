@@ -5,7 +5,7 @@ Contacts
 2. [LinkedIn](https://www.linkedin.com/in/simahojr/).
 3. [Heroku](https://www.herokuapp.simeonpande.com).
 4. [Email](mailto:simeonpande@yahoo.com).
-5. [Call](+255715566533)
+5. [Call](tel:+255715566533)
 
 
 ### Markdown
