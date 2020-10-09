@@ -28,6 +28,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Image](src=images/IMG_0696.jpeg)
+![Image of Yaktocat](src=/images/IMG_0696.jpeg)
+![Image of Yaktocat](src=images/IMG_0696.jpeg)
 [[images/IMG_0696.jpeg]]
 [[/images/IMG_0696.jpeg]]
 
