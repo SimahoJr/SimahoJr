@@ -29,8 +29,6 @@ Syntax highlighted code block
 
 ```
 
-[Image](src=images/IMG_0696.jpeg)
-![Dar es Salaam](src=/images/IMG_0696.jpeg)
 ![Dar es Salaam](/images/IMG_0696.jpeg)
 
 TODO: Stuff
