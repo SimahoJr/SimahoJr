@@ -32,11 +32,7 @@ Syntax highlighted code block
 [Image](src=images/IMG_0696.jpeg)
 ![Dar es Salaam](src=/images/IMG_0696.jpeg)
 ![Dar es Salaam](/images/IMG_0696.jpeg)
-![Dar es Salaam](src:images/IMG_0696.jpeg)
-![Dar es Salaam](https://github.com/SimahoJr/SimahoJr/blob/gh-pages/images/IMG_0696.jpeg)
-[[images/IMG_0696.jpeg]]
-[Heroku](https://www.herokuapp.simeonpande.com).
-[[/images/IMG_0696.jpeg]]
+
 TODO: Stuff
 
 ### Jekyll Themes
