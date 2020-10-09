@@ -28,8 +28,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Image](src=images/IMG_0696.jpeg)
-![Image of Yaktocat](src=/images/IMG_0696.jpeg)
-![Image of Yaktocat](src=images/IMG_0696.jpeg)
+![Dar es Salaam](src=/images/IMG_0696.jpeg)
+![Dar es Salaam](/images/IMG_0696.jpeg)
+![Dar es Salaam](images/IMG_0696.jpeg)
+![Dar es Salaam](https://github.com/SimahoJr/SimahoJr/blob/gh-pages/images/IMG_0696.jpeg)
 [[images/IMG_0696.jpeg]]
 [[/images/IMG_0696.jpeg]]
 
