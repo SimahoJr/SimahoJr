@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/SimahoJr/SimahoJr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Links
+[GitHub](https://github.com/SimahoJr/).
+[LinkedIn](https://www.linkedin.com/in/simahojr/).
+[Heroku](https://www.herokuapp.simeonpande.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
