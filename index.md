@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Image](src="IMG_0696.jpeg")
+[Image](src=images/IMG_0696.jpeg)
 [/IMG_0696.jpeg]
 ```
 
