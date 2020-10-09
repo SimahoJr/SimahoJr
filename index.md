@@ -4,7 +4,8 @@ Contacts
 1. [GitHub](https://github.com/SimahoJr/).
 2. [LinkedIn](https://www.linkedin.com/in/simahojr/).
 3. [Heroku](https://www.herokuapp.simeonpande.com).
-3. [email](mailto:simeonpande@yahoo.com).
+4. [Email](mailto:simeonpande@yahoo.com).
+5. [Call](+255715566533)
 
 
 ### Markdown
