@@ -5,7 +5,7 @@ Contacts
 2. [LinkedIn](https://www.linkedin.com/in/simahojr/).
 3. [Heroku](https://www.herokuapp.simeonpande.com).
 4. [Email](mailto:simeonpande@yahoo.com).
-5. [Call](tel:+255715566533)
+5. [Call](tel:+255715566533).
 
 
 ### Markdown
@@ -30,9 +30,10 @@ Syntax highlighted code block
 [Image](src=images/IMG_0696.jpeg)
 ![Dar es Salaam](src=/images/IMG_0696.jpeg)
 ![Dar es Salaam](/images/IMG_0696.jpeg)
-![Dar es Salaam](images/IMG_0696.jpeg)
+![Dar es Salaam](src:images/IMG_0696.jpeg)
 ![Dar es Salaam](https://github.com/SimahoJr/SimahoJr/blob/gh-pages/images/IMG_0696.jpeg)
 [[images/IMG_0696.jpeg]]
+[Heroku](https://www.herokuapp.simeonpande.com).
 [[/images/IMG_0696.jpeg]]
 
 ```
