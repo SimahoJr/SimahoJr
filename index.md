@@ -39,6 +39,6 @@ TODO: Stuff
 
 1. [GitHub](https://github.com/SimahoJr/).
 2. [LinkedIn](https://www.linkedin.com/in/simahojr/).
-3. [Heroku](https://www.herokuapp.simeonpande.com).
+3. [Heroku](http://simeonpande.herokuapp.com).
 4. [Email](mailto:simeonpande@yahoo.com).
 5. [Call](tel:+255715566533).
