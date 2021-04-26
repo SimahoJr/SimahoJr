@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Simeon Robert Pande Pande
+### My name is Simeon Robert Pande
 
 I am an Electronics Engineer from Tanzania!
 - 🔭 I’m currently working on espDrone, waiting for some parts from eBay
